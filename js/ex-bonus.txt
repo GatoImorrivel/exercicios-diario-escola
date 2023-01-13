@@ -1,0 +1,11 @@
+3) Qual a ordem dos prints no console?
+    A ordem será: 'A função é: c', e depois 'A função é: d'. Isso se dá
+pois a função 'b' retorna prematuramente antes de chamar a função 'alertUser', 
+e o 'alertUser' presente na função 'a' não é chamado pois a função 'c'
+faz uma chamada à função 'resolve';
+
+4) Existe algum erro nesse código? Se sim, comente sobre?
+    Não há erros que causem falha no interpretador,
+porem a função 'b' chama a função 'alertUser' apos retornar,
+assim fazendo com que essa chamada não ocorra. Isso pode ser
+considerado um erro, pois a função não cumpre o que é esperado dela.
