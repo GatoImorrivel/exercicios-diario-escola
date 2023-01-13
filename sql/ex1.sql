@@ -1,3 +1,5 @@
+-- MySQL
+
 insert into Aluno
 (Id, Nome)
 VALUES (1, 'Lucas');
