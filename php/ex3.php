@@ -1,4 +1,10 @@
 <?php
+
+/*
+3) Faça a ordenação e impressão da estrutura $arrayDeClientes resultante do exercício
+2 pela data de nascimento (pode ser ascendente ou descendente)
+*/
+
 $nomes = ['Francisco Souza', 'Guilherme Rosa', 'Arthur Golveia'];
 
 $cliente1 = new stdClass();

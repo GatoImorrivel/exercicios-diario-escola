@@ -1,5 +1,10 @@
 <?php
 
+/*
+2) Utilize a estrutura de dados $arrayDeNascimento para adicionar na estrutura
+$arrayDeClientes a data de nascimento de cada cliente.
+*/
+
 $nomes = ['Francisco Souza', 'Guilherme Rosa', 'Arthur Golveia'];
 
 $cliente1 = new stdClass();

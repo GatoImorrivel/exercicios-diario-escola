@@ -1,5 +1,7 @@
 <?php
 
+//1) Utilizando a variável $arrayDeClientes de um echo no nome do segundo cliente
+
 $nomes = ['Francisco Souza', 'Guilherme Rosa', 'Arthur Golveia'];
 
 $cliente1 = new stdClass();

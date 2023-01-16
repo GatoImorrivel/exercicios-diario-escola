@@ -1,3 +1,8 @@
+/*
+1) Percorra o objeto clientes e mostre o nome da cada cliente da seguinte maneira:
+“ultimoSobrenome, primeiroNome”
+*/
+
 var clientes = [
   {
     id: 1,

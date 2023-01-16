@@ -1,3 +1,5 @@
+//2) Formate a variável “numero” para o seguinte formato: “(XX)_X_XXXX-XXXX”
+
 var numero = "5(1)9-876-543-21";
 
 // Regex para selecionar quaisquer caracter que não
