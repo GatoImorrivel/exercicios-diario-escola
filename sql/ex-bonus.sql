@@ -7,3 +7,4 @@ SELECT Aluno.id AS "Id Aluno", Aluno.nome AS "Nome Aluno",
 FROM Aluno
 JOIN Parentesco ON Aluno.id = Parentesco.idAluno
 JOIN Responsavel ON Responsavel.id = Parentesco.idResponsavel
+ORDER BY Aluno.id

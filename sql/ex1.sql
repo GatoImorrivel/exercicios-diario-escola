@@ -1,5 +1,12 @@
 -- MySQL
 
+/*
+1) Escreva comandos SQL para inserir os dados abaixo conforme o diagrama
+apresentado.
+a) Pablo é Pai de Lucas
+b) Brenda é Mãe de Lucas
+*/
+
 insert into Aluno
 (Id, Nome)
 VALUES (1, 'Lucas');
